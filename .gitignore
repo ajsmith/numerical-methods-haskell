@@ -1,0 +1,13 @@
+# Emacs backup files
+*~
+
+# Archive files
+*.bz2
+*.gz
+*.tar
+*.tgz
+*.xz
+*.zip
+
+# MacOS Metadata
+.DS_Store
